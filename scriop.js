@@ -4,3 +4,4 @@ function inserirNome(){
       console.log(elemento)
       elemento.textContent = nomeUsuario;
 }
+const lista = document.querySelector('#lista');
