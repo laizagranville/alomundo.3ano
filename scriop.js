@@ -20,5 +20,5 @@ let aluno1 ={
 
 console.log(aluno1.Laíza);
 console.log(aluno1. 18);
-console.log(aluno1.Educação Física e Programação);
-console.log(aluno1.Educação Física e Programação);
+console.log(aluno1.materiasFavoritas);
+console.log(aluno1.materiasFavoritas[1]);
